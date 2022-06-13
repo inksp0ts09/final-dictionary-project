@@ -6,6 +6,12 @@
   margin: 20px 0;
 }
 
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 .Dictionary input {
   width: 100%;
   border-radius: 6px;
