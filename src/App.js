@@ -1,4 +1,3 @@
-import ".bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 import logo from "./logo.png";
 import Dictionary from "./Dictionary";
@@ -11,7 +10,7 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary defaultKeyword="forest" />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>Coded by Maryanne McGlone</small>
